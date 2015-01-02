@@ -1,0 +1,20 @@
+{
+  "subtitle": " \u0905\u0917\u0930 \u0926\u094b \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u0940 \u092a\u0948\u0926\u093e\u0907\u0936 \u0915\u0947 \u092c\u0940\u091a \u0926\u094b \u0938\u093e\u0932 \u0938\u0947 \u0915\u092e \u0915\u093e \u0905\u0902\u0924\u0930 \u0939\u0948 \u0924\u094b \u091b\u094b\u091f\u0947 \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924 \u0915\u093e \u0916\u0924\u0930\u093e 50 \u0917\u0941\u0928\u093e \u092c\u0922\u093c \u091c\u093e\u0924\u093e \u0939\u0948\u0964", 
+  "uuid": "78dbbe6779be4b3db225dbf341447647", 
+  "language": "hin_IN", 
+  "title": "\u091c\u0928\u094d\u092e \u0915\u093e \u0938\u092e\u092f", 
+  "image": "20dece58947a45f192afa2aba5e6686a", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "birth", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
