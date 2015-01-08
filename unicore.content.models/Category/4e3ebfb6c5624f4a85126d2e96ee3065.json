@@ -2,13 +2,13 @@
   "subtitle": "\u0907\u0938 \u0906\u0932\u0947\u0916 \u092e\u0947\u0902 \u0906\u092a\u0926\u093e \u0935 \u0906\u092a\u093e\u0924 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u0947 \u0935\u093f\u0937\u092f \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0938\u0947 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0940 \u0917\u092f\u0940 \u0939\u0948 |", 
   "uuid": "4e3ebfb6c5624f4a85126d2e96ee3065", 
   "language": "hin_IN", 
-  "title": "\u0907\u0938 \u0906\u0932\u0947\u0916 \u092e\u0947\u0902 \u0906\u092a\u0926\u093e \u0935 \u0906\u092a\u093e\u0924 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u0947 \u0935\u093f\u0937\u092f \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0938\u0947 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0940 \u0917\u092f\u0940 \u0939\u0948 |", 
+  "title": "\u0906\u092a\u0926\u093e \u0935 \u0906\u092a\u093e\u0924 \u0938\u094d\u0925\u093f\u0924\u093f", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "Emergenciespreparedness", 
