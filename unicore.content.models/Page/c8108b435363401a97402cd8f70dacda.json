@@ -3,22 +3,21 @@
   "description": "\u0939\u0948\u091c\u093e \u092a\u094d\u0930\u0924\u094d\u200d\u092f\u0947\u0915 \u0935\u0930\u094d\u0937 \u0921\u093f\u0939\u093e\u0907\u0921\u094d\u0930\u0947\u0936\u0928 \u0914\u0930 \u0915\u0941\u092a\u094b\u0937\u0923 \u0915\u0947 \u091c\u0930\u093f\u092f\u0947 1 \u092e\u093f\u0932\u093f\u092f\u0928 \u092c\u091a\u094d\u200d\u091a\u094b\u0902 \u0915\u0940 \u091c\u093e\u0928 \u0932\u0947 \u0932\u0947\u0924\u093e \u0939\u0948\u0964 \u0939\u0948\u091c\u093e \u0938\u0947 \u092c\u091a\u094d\u200d\u091a\u0947 \u092c\u0921\u093c\u094b\u0902 \u0915\u0940 \u0905\u092a\u0947\u0915\u094d\u0937\u093e \u091c\u0932\u094d\u200d\u0926\u0940 \u0921\u093f\u0939\u093e\u0907\u0921\u094d\u0930\u0947\u091f\u093f\u0921 \u0939\u094b\u0928\u0947 \u0915\u0947 \u091a\u0932\u0924\u0947 \u092e\u0930 \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964 \u0939\u0948\u091c\u093e \u0938\u0947 \u092a\u0940\u0921\u093c\u093f\u0924 \u092a\u094d\u0930\u0924\u093f 200 \u092e\u0947\u0902 \u0938\u0947 \u092f\u0939 \u090f\u0915 \u0915\u0940 \u091c\u093e\u0928 \u0932\u0947 \u0932\u0947\u0924\u093e \u0939\u0948\u0964", 
   "language": "hin_IN", 
   "title": "\u0939\u0948\u091c\u093e", 
-  "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
+  "primary_category": "640d5b56d99c4c66936d2e33548f6cf0", 
   "created_at": "2015-01-02T10:25:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-08T12:29:18.471273+00:00", 
+  "modified_at": "2015-01-09T06:36:41.725859+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "5fd78701e8eb4ae18c471f644269a6c0", 
     "a525299885944eac92bc00c472576552", 
     "38aee25a718c4a96829bd6b260050acb", 
-    "b3cc41f1c0394200a3e9402313061cc8", 
     "67c56466bf2249128a6ec180f1f2711d"
   ], 
   "id": null, 
@@ -30,7 +29,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Diarrhoea", 
   "uuid": "c8108b435363401a97402cd8f70dacda"
