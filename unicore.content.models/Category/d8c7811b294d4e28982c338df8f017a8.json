@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u0997\u09be\u09b2 \u09ac\u09be \u09ae\u09c2\u09f0\u09a4 \u09b9\u09be\u09a4 \u09ac\u09c1\u09b2\u09be\u09b2\u09c7 \u09b8\u09c7\u0987 \u09a6\u09bf\u09b6\u09c7 \u09ae\u09c2\u09f0 \u0998\u09c1\u09f0\u09c1\u09f1\u09be\u0964", 
+  "uuid": "d8c7811b294d4e28982c338df8f017a8", 
+  "language": "asm_IN", 
+  "title": "\u09b6\u09bf\u09b6\u09c1\u09f0 \u09ac\u09bf\u0995\u09be\u09b6 \u0995\u09bf \u09a6\u09f0\u09c7 \u09b9\u09af\u09bc?", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ChildDevelopmentandEarlyLearning", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
