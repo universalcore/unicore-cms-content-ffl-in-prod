@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u0906\u0923\u0940\u092c\u093e\u0923\u0940 : \u0938\u091c\u094d\u091c\u0924\u093e \u0906\u0923\u093f \u092a\u094d\u0930\u0924\u093f\u0938\u093e\u0926", 
+  "uuid": "94bbc32054ac4b47b56c93f7240ebabf", 
+  "language": "mar_IN", 
+  "title": "\u0906\u0923\u0940\u092c\u093e\u0923\u0940 : \u0938\u091c\u094d\u091c\u0924\u093e \u0906\u0923\u093f \u092a\u094d\u0930\u0924\u093f\u0938\u093e\u0926", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "EmergenciesPreparednessandResponse", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
