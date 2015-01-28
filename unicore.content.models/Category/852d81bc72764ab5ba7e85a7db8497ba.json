@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u0926\u0941\u0916\u093e\u092a\u0924\u0940\u0902\u092a\u093e\u0938\u0942\u0928 \u092c\u091a\u093e\u0935", 
+  "uuid": "852d81bc72764ab5ba7e85a7db8497ba", 
+  "language": "mar_IN", 
+  "title": "\u0926\u0941\u0916\u093e\u092a\u0924\u0940\u0902\u092a\u093e\u0938\u0942\u0928 \u092c\u091a\u093e\u0935", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "injuryprevention", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
