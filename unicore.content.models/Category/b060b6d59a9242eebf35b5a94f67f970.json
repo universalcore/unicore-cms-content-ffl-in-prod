@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u0938\u094d\u0924\u0928\u092a\u093e\u0928", 
+  "uuid": "b060b6d59a9242eebf35b5a94f67f970", 
+  "language": "mar_IN", 
+  "title": "\u0938\u094d\u0924\u0928\u092a\u093e\u0928", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "breastfeeding", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
