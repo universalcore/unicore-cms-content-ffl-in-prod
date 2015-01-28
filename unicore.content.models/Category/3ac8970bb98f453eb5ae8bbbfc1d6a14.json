@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u092e\u093e\u0924\u0943\u0924\u094d\u0935 \u0906\u0923\u093f \u0928\u0935\u091c\u093e\u0924 ", 
+  "uuid": "3ac8970bb98f453eb5ae8bbbfc1d6a14", 
+  "language": "mar_IN", 
+  "title": "\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u092e\u093e\u0924\u0943\u0924\u094d\u0935 \u0906\u0923\u093f \u0928\u0935\u091c\u093e\u0924 ", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "safemotherhood", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
