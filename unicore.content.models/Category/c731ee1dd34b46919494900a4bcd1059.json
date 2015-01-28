@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u09ae\u09c7\u09b2\u09c7\u09f0\u09c0\u09af\u09bc\u09be  ", 
+  "uuid": "c731ee1dd34b46919494900a4bcd1059", 
+  "language": "asm_IN", 
+  "title": "\u09ae\u09c7\u09b2\u09c7\u09f0\u09c0\u09af\u09bc\u09be  ", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "malaria", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
