@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u09aa\u09cd\u09f0\u09a4\u09bf\u09b7\u09c7\u09a7\u0995 \u099f\u09bf\u0995\u09be\u0995\u09f0\u09a3  ", 
+  "uuid": "cad0adc0556545d69eff9954f5055a7e", 
+  "language": "asm_IN", 
+  "title": "\u09aa\u09cd\u09f0\u09a4\u09bf\u09b7\u09c7\u09a7\u0995 \u099f\u09bf\u0995\u09be\u0995\u09f0\u09a3  ", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Immunization", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
