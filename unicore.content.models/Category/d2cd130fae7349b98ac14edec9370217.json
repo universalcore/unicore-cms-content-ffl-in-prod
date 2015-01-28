@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u092e\u0941\u0932\u093e\u0902\u091a\u093e \u0935\u093f\u0915\u093e\u0938 \u0906\u0923\u093f \u0906\u0930\u0902\u092d\u093f\u0915 \u0936\u093f\u0915\u094d\u0937\u0923", 
+  "uuid": "d2cd130fae7349b98ac14edec9370217", 
+  "language": "mar_IN", 
+  "title": "\u092e\u0941\u0932\u093e\u0902\u091a\u093e \u0935\u093f\u0915\u093e\u0938 \u0906\u0923\u093f \u0906\u0930\u0902\u092d\u093f\u0915 \u0936\u093f\u0915\u094d\u0937\u0923", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ChildDevelopmentandEarlyLearning", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
