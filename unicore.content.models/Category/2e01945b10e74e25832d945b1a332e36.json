@@ -1,0 +1,20 @@
+{
+  "subtitle": "\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb3\u0bae\u0bcd\u0baa\u0bb0\u0bc1\u0bb5 \u0b95\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd", 
+  "uuid": "2e01945b10e74e25832d945b1a332e36", 
+  "language": "tam_IN", 
+  "title": "\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0bb3\u0bae\u0bcd\u0baa\u0bb0\u0bc1\u0bb5 \u0b95\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ChildDevelopmentandEarlyLearning", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
