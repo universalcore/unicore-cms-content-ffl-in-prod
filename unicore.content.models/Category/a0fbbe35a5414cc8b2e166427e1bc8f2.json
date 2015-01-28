@@ -1,0 +1,20 @@
+{
+  "subtitle": "Emergencies: Preparedness and Response", 
+  "uuid": "a0fbbe35a5414cc8b2e166427e1bc8f2", 
+  "language": "tam_IN", 
+  "title": "\u0b85\u0bb5\u0b9a\u0bb0: \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0baf\u0ba4\u0bcd\u0ba4 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bcd", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "EmergenciesPreparednessandResponse", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
