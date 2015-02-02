@@ -4,14 +4,14 @@
   "language": "asm_IN", 
   "title": "\u0986\u09ae\u09be\u09f0 \u09ac\u09bf\u09b7\u09af\u09bc\u09c7", 
   "primary_category": null, 
-  "created_at": "2015-02-02T14:39:35.259660+00:00", 
+  "created_at": "2015-02-02T14:39:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-02T14:39:35.259890+00:00", 
+  "modified_at": "2015-02-02T14:41:05.780560+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
