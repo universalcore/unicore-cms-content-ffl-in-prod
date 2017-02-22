@@ -6,12 +6,12 @@
   "primary_category": "fcf3747b1c5443359e5bcb8d722823fb", 
   "created_at": "2015-01-23T10:58:37.366193+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-23T10:58:37.366381+00:00", 
+  "modified_at": "2017-02-22T07:38:45.330107+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "brea", 
   "uuid": "be753f17ae094b84a4350538d2f64244"
