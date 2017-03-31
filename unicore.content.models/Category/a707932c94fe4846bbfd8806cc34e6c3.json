@@ -2,13 +2,13 @@
   "subtitle": "\u0907\u0938 \u0906\u0932\u0947\u0916 \u092e\u0947\u0902 \u090f\u091a\u0906\u0908\u0935\u0940/\u090f\u0921\u0938\u094d \u0915\u0947 \u0935\u093f\u0937\u092f \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0938\u0947 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0940 \u0917\u092f\u0940 \u0939\u0948 |", 
   "uuid": "a707932c94fe4846bbfd8806cc34e6c3", 
   "language": "hin_IN", 
-  "title": "HIV \u090f\u091a\u0906\u0908\u0935\u0940/\u090f\u0921\u0938\u094d ", 
+  "title": "\u090f\u091a\u0906\u0908\u0935\u0940/\u090f\u0921\u0938\u094d ", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "HIVaids", 
