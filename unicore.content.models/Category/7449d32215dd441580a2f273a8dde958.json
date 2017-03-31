@@ -2,13 +2,13 @@
   "subtitle": "\u09aa\u09c7\u099f\u099a\u09b2\u09be", 
   "uuid": "7449d32215dd441580a2f273a8dde958", 
   "language": "asm_IN", 
-  "title": "diarrohea \u09aa\u09c7\u099f\u099a\u09b2\u09be", 
+  "title": "\u09aa\u09c7\u099f\u099a\u09b2\u09be", 
   "image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "diarrohea", 
