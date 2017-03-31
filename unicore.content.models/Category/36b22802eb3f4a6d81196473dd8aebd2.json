@@ -2,13 +2,13 @@
   "subtitle": "\u099c\u09a8\u09cd\u09ae\u09a6\u09be\u09a8\u09f0 \u09b8\u09ae\u09af\u09bc", 
   "uuid": "36b22802eb3f4a6d81196473dd8aebd2", 
   "language": "asm_IN", 
-  "title": "Birth Timing\u099c\u09a8\u09cd\u09ae\u09a6\u09be\u09a8\u09f0 \u09b8\u09ae\u09af\u09bc  ", 
+  "title": "\u099c\u09a8\u09cd\u09ae\u09a6\u09be\u09a8\u09f0 \u09b8\u09ae\u09af\u09bc  ", 
   "image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "TimingBirths", 
