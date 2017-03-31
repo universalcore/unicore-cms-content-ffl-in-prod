@@ -2,13 +2,13 @@
   "subtitle": "\u09b6\u09bf\u09b6\u09c1\u09f0 \u09ac\u09bf\u0995\u09be\u09b6 \u0986\u09f0\u09c1 \u09aa\u09cd\u09f0\u09be\u09f0\u09ae\u09cd\u09ad\u09bf\u0995 \u09b6\u09bf\u0995\u09cd\u09b7\u09be", 
   "uuid": "f24b44e9f0c04461b949822039e6f56d", 
   "language": "asm_IN", 
-  "title": "\u09b6\u09bf\u09b6\u09c1\u09f0 \u09ac\u09bf\u0995\u09be\u09b6 \u0986\u09f0\u09c1 \u09aa\u09cd\u09f0\u09be\u09f0\u09ae\u09cd\u09ad\u09bf\u0995 \u09b6\u09bf\u0995\u09cd\u09b7\u09be", 
+  "title": "Child 1 \u09b6\u09bf\u09b6\u09c1\u09f0 \u09ac\u09bf\u0995\u09be\u09b6 \u0986\u09f0\u09c1 \u09aa\u09cd\u09f0\u09be\u09f0\u09ae\u09cd\u09ad\u09bf\u0995 \u09b6\u09bf\u0995\u09cd\u09b7\u09be", 
   "image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "ChildDevelopmentandEarlyLearning", 
