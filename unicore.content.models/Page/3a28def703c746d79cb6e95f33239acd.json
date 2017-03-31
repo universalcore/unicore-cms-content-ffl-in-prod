@@ -6,12 +6,12 @@
   "primary_category": "d8c7811b294d4e28982c338df8f017a8", 
   "created_at": "2015-02-02T05:30:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-03-31T12:00:58.583287+00:00", 
+  "modified_at": "2017-03-31T12:02:59.750916+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ChildDevelopmentandEarlyLearning", 
   "uuid": "3a28def703c746d79cb6e95f33239acd"
